@@ -4,7 +4,7 @@ Slides for a talk I gave at the Plymouth University School of Psychology Resarch
 
 Slides as [PDF](fix-replication-crisis.pdf)
 
-Talk as a [video](https://example.com) (not yet available)
+Talk as a [video](https://youtu.be/_OqiTVq12Pk)
 
 ## Source code
 
