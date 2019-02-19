@@ -6,7 +6,7 @@ View the slides:[PDF](fix-replication-crisis.pdf)
 
 Listen to the talk: [video](https://youtu.be/_OqiTVq12Pk)
 
-Print the t-shirt: [jpg](t-shirt/revolution.jpg)
+Print the t-shirt: [jpg](t-shirt/revolution.jpg) - you can use this file at a service such as [Abracadabra Clothing](https://www.abracadabraclothing.com/) to print yourself a t-shirt in either black or white, in a range of sizes.
 
 ## Source code
 
